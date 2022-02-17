@@ -1,6 +1,6 @@
-# WebScraping101
+# Web Scraping 101
 
-The Web Scraping lesson from Corey Schafer:
+Bases on the Web Scraping lesson from Corey Schafer:
 https://www.youtube.com/watch?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&v=ng2o98k983k&feature=youtu.be
 
 
@@ -24,5 +24,5 @@ Useful document links:
   - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
  
 
-Review regular expression:
+Review on regular expression for better a web scraping skill:
 https://www.youtube.com/watch?v=K8L6KVGG-7o
