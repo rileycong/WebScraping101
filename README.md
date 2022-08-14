@@ -4,7 +4,7 @@ Bases on the Web Scraping lesson from Corey Schafer:
 https://www.youtube.com/watch?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&v=ng2o98k983k&feature=youtu.be
 
 
-Installation for this lesson:
+Installation:
   - beautifulsoup4
   - lxml
   - requests
